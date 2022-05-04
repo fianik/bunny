@@ -1,0 +1,6 @@
+C:/diplom/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/diplom/x64-Debug/CMakeFiles/CMake_OGL.dir
+C:/diplom/x64-Debug/CMakeFiles/IMGUI.dir
+C:/diplom/x64-Debug/CMakeFiles/STB_IMAGE.dir
+C:/diplom/x64-Debug/CMakeFiles/GLAD.dir
+C:/diplom/x64-Debug/CMakeFiles/edit_cache.dir
